@@ -16,11 +16,11 @@ import com.devsuperior.dsdeliver.services.ProductService;
 public class ProductController {
 	
 	@Autowired
-	private ProductService productService;
+	private ProductService service;
 	
 	@GetMapping
 	public ResponseEntity<List<ProductDTO>> findAll(){
-		List<ProductDTO> list = productService.findAll();
+		List<ProductDTO> list = service.findAll();
 		return ResponseEntity.ok().body(list);
 	}
 }
