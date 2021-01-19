@@ -1,0 +1,23 @@
+Projeto apresentado na semana DevSuperior, criado um sistema de delivery alimentício. 
+
+Ferramentas utilizadas:
+VisualCode, 
+SpringTools, 
+Postman.
+
+Tecnologias:
+Java
+Hibernate
+Jpa
+Springboot
+REST
+ReactJS
+HTML
+CSS
+Postgress
+
+Sistemas utilizados para deploy:
+Heroku
+Netlify
+
+Utilizado java no backend juntamente com as tecnologias de apoio, padrão Rest para comunicação com o frontEnd(React, html, css)
