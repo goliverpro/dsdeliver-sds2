@@ -1,18 +1,18 @@
 Projeto apresentado na semana DevSuperior, criado um sistema de delivery alimentício. 
 
 Ferramentas utilizadas:
-VisualCode, 
-SpringTools, 
-Postman.
+VisualCode 1.52.1, 
+SpringTools4, 
+Postman 7.36.1.
 
 Tecnologias:
-Java
+Java 11
 Hibernate
 Jpa
-Springboot
+Springboot 2.4.2
 REST
-ReactJS
-HTML
+ReactJS 6.14.10
+HTML5
 CSS
 Postgress
 
